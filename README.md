@@ -25,7 +25,7 @@ npm install
 
 #### Step 3
 
-Create a .env file in the root of the project with this content:
+Create a `.env` file in the root of the project with this content:
 
 ```
 # MongoDB connection parameters
@@ -67,7 +67,7 @@ DISCOURSE_SSO_SECRET=
 
 Start the API via command line.
 
-`node server.js`
+`node index.js`
 
 ### Running using Google Cloud Run
 
